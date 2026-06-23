@@ -75,6 +75,7 @@ void loop() {
 
   delay(500);
 }
+
 Setup Instructions
 ​Assembly: Secure the ultrasonic sensor to the front of the bin. Attach the servo motor to the lid hinge.
 ​Wiring: Connect components to the Arduino as described in the diagram section.
