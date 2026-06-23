@@ -83,3 +83,4 @@ Setup Instructions
 ​Testing: Power on the circuit and place your hand near the sensor to observe the lid opening.
 ![Smart Dustbin](IMG-20260623-WA0010.jpg)
 ![Smart Dustbin](IMG-20260623-WA0011.jpg) 
+![Smart Dustbin](IMG-20260623-WA0012.jpg) 
