@@ -82,3 +82,4 @@ Setup Instructions
 ​Programming: Copy the provided code into the Arduino IDE, select your board, and upload it.
 ​Testing: Power on the circuit and place your hand near the sensor to observe the lid opening.
 ![Smart Dustbin](IMG-20260623-WA0010.jpg)
+![Smart Dustbin](IMG-20260623-WA0011.jpg) 
