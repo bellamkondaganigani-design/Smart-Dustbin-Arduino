@@ -84,4 +84,5 @@ Setup Instructions
 ![Smart Dustbin](IMG-20260623-WA0010.jpg)
 ![Smart Dustbin](IMG-20260623-WA0011.jpg) 
 ![Smart Dustbin](IMG-20260623-WA0012.jpg) 
-[Watch the Smart Dustbin in Action!](96316.mp4)
+[Watch the Smart Dustbin in Action!](VID_20260623_063017_849_bsl.mp4
+)
