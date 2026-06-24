@@ -1,3 +1,6 @@
+Team Project
+This project was developed collaboratively by me and my friend as part of our learning in Embedded Systems and IoT.
+
 # Smart-Dustbin-Arduino
 ​This project demonstrates a Smart Dustbin built using an Arduino, an ultrasonic sensor, and a servo motor. When the sensor detects an object at a certain distance, it automatically opens the lid, allowing for touch-free waste disposal.
 ​Overview
